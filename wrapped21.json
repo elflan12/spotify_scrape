@@ -1,6 +1,3 @@
-name: create-json
-id: create_json
-with:
 {
 "uri":"spotify:playlist:37i9dQZF1EUMDoJuT8yJsl"
 }
